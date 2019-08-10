@@ -1,5 +1,5 @@
 {
-    "name": "garethhallnz/pandadoc",
+    "name": "tjphippen/pandadoc",
     "type": "library",
     "description": "PandaDoc SDK",
     "keywords": [
@@ -8,7 +8,7 @@
     "config": {
         "php": ">=7.0"
     },
-    "homepage": "https://github.com/garethhallnz/pandadoc",
+    "homepage": "https://github.com/tjphippen/pandadoc",
     "license": "MIT",
     "authors": [
         {
@@ -18,7 +18,11 @@
         {
             "name": "Ivan Liskov",
             "email": "ivan@communica.co.nz"
-        }
+        },
+	{
+            "name": "TJ Phippen",
+            "email": "tj@tjphippen.com"
+        },
     ],
     "autoload": {
         "psr-4": { "PandaDoc\\" : "src" }
