@@ -22,7 +22,7 @@
 	{
             "name": "TJ Phippen",
             "email": "tj@tjphippen.com"
-        },
+        }
     ],
     "autoload": {
         "psr-4": { "PandaDoc\\" : "src" }
